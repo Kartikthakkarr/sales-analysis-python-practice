@@ -1,6 +1,6 @@
-# sales-analysis-python-practice
+# sales-analysis-python
 Beginner Python project analyzing sales data using basic statistics to understand trends and relationships.
-# Sales Analysis - Python Practice Project
+# Sales Analysis - Python Project
 
 This project is part of my learning journey in Python and data analysis.  
 It focuses on analyzing simple sales data using basic statistical techniques.
